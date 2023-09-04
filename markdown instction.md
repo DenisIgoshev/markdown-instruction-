@@ -32,6 +32,10 @@
 Чтобы вставить изображение в текст достаточно написать следующее:
 ![Это базелик](bazelik.jpg)
 ## Ссылки
+Чтобы оформить списки на в Markdown нужно использовать следующий синтаксис, например:
+[Python Compiler] (https://www.onlinegdb.com/online_python_compiler) без подсказки.
+Второй пример:
+[Pyton Compiler] (https://www.onlinegdb.com/online_python_compiler "Питон компилятор") с подсказкой.
 
 ## Работа с таблицами
 
