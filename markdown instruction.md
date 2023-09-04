@@ -38,7 +38,9 @@
 [Pyton Compiler] (https://www.onlinegdb.com/online_python_compiler "Питон компилятор") с подсказкой.
 
 ## Работа с таблицами
-
+11223
+2315
+2321
 ## Цитаты
 
 ## Заключение
